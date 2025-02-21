@@ -10,6 +10,14 @@ Subsequently, the MSMs that resulted were further coarse-grained into a smaller 
 
 The tICA method identified the torsional angles of the following 3CL-Pro residues as the most important features: 3, 4, 5, 6, 84, 135, 141, 164, 167, 171, 175, 178, 179, 180, 190, 195, 217, 284, 285, 286, 290, 291, 300, and 301. A series of thresholds was set for the coefficients in the tICA vectors to make this selection. Initially, a threshold of 0.09 was used, followed by thresholds of 0.04, 0.085, and finally 0.075. The previously mentioned 3CL-Pro residues were identified as a result of this process. The selection of these thresholds was guided by an analysis of different thresholds, the VAMP2-score, and the states projected onto the first two independent components. The exact functions of the first two tICA components were reported as a linear combination of cosine/sine functions of the associated torsional angles.
 
+Results of this study have been published in the following peer-reviewed journals:
+
+(a)	Panagiotopoulos, A., Tseliou, M., Karakasiliotis, I., Kotzampasi, D. M., Daskalakis, V., Kesesidis, N., Notas, G., Lionis, C., Kampa, M., Pirintsos, S., Sourvinos, G., & Castanas, E. (2021). p-cymene impairs SARS-CoV-2 and Influenza A (H1N1) viral replication: In silico predicted interaction with SARS-CoV-2 nucleocapsid protein and H1N1 nucleoprotein. Pharmacol. Res. Perspect., 9(4), e00798. https://doi.org/10.1002/prp2.798
+
+(b)	Panagiotopoulos, A., Karakasiliotis, I., Kotzampasi, D. M., Dimitriou, M., Sourvinos, G., Kampa, M., Pirintsos, S., Castanas, E., & Daskalakis, V. (2021). Natural Polyphenols Inhibit the Dimerization of the SARS-CoV-2 Main Protease: The Case of Fortunellin and Its Structural Analogs. Molecules, 26(19), 6068. 
+https://doi.org/10.3390/molecules26196068
+
+
 #### References
 1. Plattner, N.; Noé, F. Protein conformational plasticity and complex ligand-binding kinetics explored by atomistic simulations and Markov models. Nat. Commun. 2015, 6, 7653, doi:10.1038/ncomms8653.
 
